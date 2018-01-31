@@ -23,6 +23,9 @@
 Machine Learning and Having It Deep and Structured](https://www.csie.ntu.edu.tw/~yvchen/f106-adl/) [2017 Fall][DL] [[Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/index.html)]
 10. [Theano: Deep Learning Tutorials](http://deeplearning.net/tutorial/) [Theano]
 11. [Mxnet: Deep Learning-The Straight Dope](http://gluon.mxnet.io/) [2017][Mxnet] [[中文](http://zh.gluon.ai/)]
+12. [MIT: 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/) [2018][DL]
+13. [UVA: DEEP LEARNING COURSE](http://uvadlc.github.io/) [][DL]
+14. [Fast.ai: Practical Deep Learning For Coders](http://course.fast.ai/) [2018][DL]
 
 
 ## Machine Learning
