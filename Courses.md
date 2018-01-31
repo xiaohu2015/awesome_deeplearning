@@ -1,14 +1,15 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 # Courses
+
 ## Table of Contents
-- [Deep learning](#Deep-learning)
-- [Machine learning](#Machine-learning)
-- [Reinforcement Learning](#Reinforcement-learning)
-- [Artificial Intelligence](#Artificial-intelligence)
+- [Deep Learning](#deep-learning)
+- [Machine Learning](#machine-learning)
+- [Reinforcement Learning](#reinforcement-learning)
+- [Artificial Intelligence](#artificial-intelligence)
 
 
-## Deep-learning
+## Deep Learning
 1. [CMU: 11-785 Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/) [Spring 2018] [DL]
 2. [Stanford: CS230 Deep Learning](https://web.stanford.edu/class/cs230/) [Winter 2018][DL]
 3. [University of Chicago: CMSC 35246 Deep Learning
@@ -24,17 +25,17 @@ Machine Learning and Having It Deep and Structured](https://www.csie.ntu.edu.tw/
 11. [Mxnet: Deep Learning-The Straight Dope](http://gluon.mxnet.io/) [2017][Mxnet] [[中文](http://zh.gluon.ai/)]
 
 
-## Machine-learning
+## Machine Learning
 1. [Stanford: CS229 Machine Learning](http://cs229.stanford.edu/) [Autumn 2017][ML]
 2. [University of Notre Dame: Statistical Computing for Scientists and Engineers](https://www.zabaras.com/statisticalcomputing) [Fall 2017][SL]
 3. [CMU: Statistical Machine Learning](http://www.stat.cmu.edu/~ryantibs/statml/) [Spring 2017][ML]
 
-## Reinforcement-learning
+## Reinforcement Learning
 1. [Berkeley: CS 294 Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/?utm_source=qq&utm_medium=social) [Fall 2017][RL]
 2. [CMU: 10703 Deep RL and Control](http://www.cs.cmu.edu/~rsalakhu/10703/) [Fall 2018][RL]
-3. 
 
-## Artificial-intelligence
+
+## Artificial Intelligence
 1. [MIT: 6.S099 Artificial General Intelligence](https://agi.mit.edu/) [2018]
 2. [MIT 6.S094: Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu/) [2018]
 
