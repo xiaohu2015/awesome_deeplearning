@@ -42,7 +42,7 @@ Machine Learning and Having It Deep and Structured](https://www.csie.ntu.edu.tw/
 1. [MIT: 6.S099 Artificial General Intelligence](https://agi.mit.edu/) [2018]
 2. [MIT 6.S094: Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu/) [2018]
 
-
+$x^2$
 
 
 
